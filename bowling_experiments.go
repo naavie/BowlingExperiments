@@ -4,6 +4,10 @@ import (
 	"fmt"
 )
 
+func main() {
+
+}
+
 func BowlingGameVersion2() {
 	newgame := make(map[string]int)
 
